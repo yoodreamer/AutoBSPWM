@@ -14,7 +14,7 @@
 &ensp;[<kbd> <br> Caracteristicas <br> </kbd>](#--bienvenido)&ensp;
 <br><br><br></div>
 
-> [!ATTENTION] Atención
+> [!WARNING] Atención
 > Este repositorio no esta abandonado, pero cambiara de manera drástica, espero subir todos los cambios de golpe y no por commits como antes, muchas gracias por leer, sigue adelante 
 
 ---
