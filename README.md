@@ -15,7 +15,7 @@
 <br><br><br></div>
 
 > [!WARNING]
-> Este repositorio no esta abandonado, pero cambiara de manera drástica, espero subir todos los cambios de golpe y no por commits como antes, muchas gracias por leer, sigue adelante 
+> Este repositorio no esta abandonado, pero cambiara de manera drástica en un futuro tal vez cercano, espero subir todos los cambios de golpe y no por commits como antes, muchas gracias por leer, sigue adelante 
 
 ---
 
