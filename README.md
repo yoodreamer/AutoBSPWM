@@ -1,4 +1,3 @@
-
 <h1 style="text-align: center;">Entorno de administrador de ventanas BSPWM completo</h1>
 
 <div style="text-align: center;">
@@ -14,6 +13,9 @@
 &ensp;[<kbd> <br> Atajos <br> </kbd>](#-atajos-de-teclado--)&ensp;
 &ensp;[<kbd> <br> Caracteristicas <br> </kbd>](#--bienvenido)&ensp;
 <br><br><br></div>
+
+> [!ATTENTION] Atención
+> Este repositorio no esta abandonado, pero cambiara de manera drástica, espero subir todos los cambios de golpe y no por commits como antes, muchas gracias por leer, sigue adelante 
 
 ---
 
